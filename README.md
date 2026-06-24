@@ -1,4 +1,5 @@
 # Chocolate Sales Analytics Dashboard | Power BI
+<img width="1920" height="1020" alt="dashboard_overview" src="https://github.com/user-attachments/assets/d37516e7-ec8e-4911-9c0b-69c5d8d054df" />
 
 ## Project Overview
 
